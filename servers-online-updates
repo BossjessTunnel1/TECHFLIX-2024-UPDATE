@@ -5,7 +5,7 @@
        "host":"www.2embed.cc",
        "port":"80"
        },
-       }
+       {
        "id":["https://vidsrc.xyz/embed/movie/"],
        "title":"SERVER 02",
        "type":"",
