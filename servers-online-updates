@@ -1,14 +1,16 @@
 {"categories":[{"name":"Movies","TechFlix":[{
        "id":["https://www.2embed.cc/embed/"],
        "title":"OFFLINE",
-       "type":"https://possiblesunken.com/gwv49dnyr?key=7edca6bccd446a8d8d5fcd515d055dfd",
+       "type":"",
+       "ads":"https://possiblesunken.com/gwv49dnyr?key=7edca6bccd446a8d8d5fcd515d055dfd",
        "host":"www.2embed.cc",
        "port":"80"
        },
        {
        "id":["https://vidsrc.xyz/embed/movie/"],
        "title":"SERVER 02",
-       "type":"https://possiblesunken.com/t79n6tcb?key=dbfae895a0925049d61c1ba9f7240d82",
+       "type":"",
+       "ads":"https://possiblesunken.com/t79n6tcb?key=dbfae895a0925049d61c1ba9f7240d82",
        "host":"vidsrc.xyz",
        "port":"80"
        }
