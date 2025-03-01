@@ -1,9 +1,9 @@
 {"categories":[{"name":"Movies","TechFlix":[{
-       "id":["https://ply4.com/movie/?id="],
-       "title":"OFFLINE",
-       "type":"",
+       "id":["https://multiembed.mov/?video_id="],
+       "title":"SERVER 01",
+       "type":"&tmdb=1",
        "ads":"https://www.effectiveratecpm.com/kwg8ysi3?key=152b55ef3115c56fe34fe0637850ba43",
-       "host":"ply4.com",
+       "host":"multiembed.mov",
        "port":"80"
        },
        {
