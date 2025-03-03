@@ -1,7 +1,7 @@
 {"categories":[{"name":"Movies","TechFlix":[{
-       "id":["https://vidsrc.xyz/embed/movie/"],
+       "id":["https://vidsrc.xyz/embed/movie?tmdb="],
        "title":"SERVER 01",
-       "type":"",
+       "type":"&sub_url=https%3A%2F%2Fvidsrc.me%2Fsample.srt",
        "ads":"https://possiblesunken.com/gwv49dnyr?key=7edca6bccd446a8d8d5fcd515d055dfd",
        "host":"vidsrc.xyz",
        "port":"80"
