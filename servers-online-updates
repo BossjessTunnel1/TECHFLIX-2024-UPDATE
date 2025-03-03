@@ -1,25 +1,33 @@
 {"categories":[{"name":"Movies","TechFlix":[{
-       "id":["https://www.2embed.stream/embed/movie/"],
+       "id":["https://vidsrc.in/embed/movie/"],
        "title":"SERVER 01",
        "type":"",
        "ads":"https://possiblesunken.com/gwv49dnyr?key=7edca6bccd446a8d8d5fcd515d055dfd",
-       "host":"www.2embed.stream",
+       "host":"vidsrc.in",
+       "port":"80"  
+       },
+       {
+      "id":["https://vidsrc.pm/embed/movie/"],
+       "title":"SERVER 02",
+       "type":"",
+       "ads":"https://possiblesunken.com/gwv49dnyr?key=7edca6bccd446a8d8d5fcd515d055dfd",
+       "host":"vidsrc.pm",
        "port":"80"
        },
        {
       "id":["https://vidsrc.xyz/embed/movie/"],
-       "title":"SERVER 02",
+       "title":"SERVER 03",
        "type":"",
        "ads":"https://possiblesunken.com/gwv49dnyr?key=7edca6bccd446a8d8d5fcd515d055dfd",
        "host":"vidsrc.xyz",
        "port":"80"
        },
        {
-       "id":["https://multiembed.mov/?video_id="],
-       "title":"SERVER 03",
+       "id":["https://vidsrc.net/embed/movie/"],
+       "title":"SERVER 04",
        "type":"&tmdb=1",
        "ads":"https://possiblesunken.com/zrhdqajm?key=b89662f89c384e0a45fcdddd99c4d2bb",
-       "host":"multiembed.mov",
+       "host":"vidsrc.net",
        "port":"80"
        }
       ] 
