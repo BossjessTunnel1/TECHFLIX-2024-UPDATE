@@ -1,6 +1,14 @@
 {"categories":[{"name":"Movies","TechFlix":[{
-       "id":["https://multiembed.mov/?video_id="],
+      "id":["https://player.autoembed.cc/embed/movie/"],
        "title":"SERVER 01",
+       "type":"",
+       "ads":"https://possiblesunken.com/zrhdqajm?key=b89662f89c384e0a45fcdddd99c4d2bb",
+       "host":"player.autoembed.cc",
+       "port":"80"
+       },
+       {
+      "id":["https://multiembed.mov/?video_id="],
+       "title":"SERVER 02",
        "type":"&tmdb=1",
        "ads":"https://possiblesunken.com/zrhdqajm?key=b89662f89c384e0a45fcdddd99c4d2bb",
        "host":"multiembed.mov",
@@ -8,7 +16,7 @@
        },
        {
        "id":["https://vidsrc.xyz/embed/movie?tmdb="],
-       "title":"SERVER 02",
+       "title":"SERVER 03",
        "type":"",
        "ads":"https://possiblesunken.com/gwv49dnyr?key=7edca6bccd446a8d8d5fcd515d055dfd",
        "host":"vidsrc.xyz",
