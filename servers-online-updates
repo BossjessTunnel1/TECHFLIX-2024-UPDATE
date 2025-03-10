@@ -1,16 +1,16 @@
 {"categories":[{"name":"Movies","TechFlix":[{
-      "id":["https://multiembed.mov/?video_id="],
-       "title":"SERVER 01",
-       "type":"&tmdb=1",
-       "ads":"https://possiblesunken.com/zrhdqajm?key=b89662f89c384e0a45fcdddd99c4d2bb",
+      "id":[""],
+       "title":"OFFLINE",
+       "type":"",
+       "ads":"",
        "host":"multiembed.mov",
        "port":"80"
        },
        {
-       "id":["https://vidsrc.xyz/embed/movie?tmdb="],
-       "title":"SERVER 02",
+       "id":[""],
+       "title":"OFFLINE",
        "type":"",
-       "ads":"https://possiblesunken.com/gwv49dnyr?key=7edca6bccd446a8d8d5fcd515d055dfd",
+       "ads":"",
        "host":"vidsrc.xyz",
        "port":"80"
        }
