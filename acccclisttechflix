@@ -1,21 +1,22 @@
-{"categories":[{"name":"Movies",{
-"role@gmail.com":[{
-       "expdate":["31"],
+{"categories":[{"name":"Movies","TechFlix":[{
+       "email":["role@gmail.com"],
+       "expdate":"31",
        "expmonths":"MARCH",
        "expyears":"2025"
-    }]}]
- },
-{
-"roljwjwjwje@gmail.com":[{
-       "expdate":["31"],
+       },
+       {
+       "email":["rbsbsnse@gmail.com"],
+       "expdate":"31",
        "expmonths":"MARCH",
        "expyears":"2025"
-    }]}]
- },
-{
-"rohsjsjsjle@gmail.com":[{
-       "expdate":["31"],
+      },
+       {
+       "email":["rosjsjjse@gmail.com"],
+       "expdate":"31",
        "expmonths":"MARCH",
        "expyears":"2025"
-    }]}]
- }
+      }
+   ]
+  }
+ ]
+}
