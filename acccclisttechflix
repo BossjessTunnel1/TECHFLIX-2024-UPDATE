@@ -1,5 +1,16 @@
-    {"email":"role@gmail.com",
+{"categories":[{"name":"Movies","TechFlix":[{
+      "email":["rolehhj@gmail.com"],
+       "expdate":"1",
+       "expmonths":"APRIL",
+       "expyears":"2025"
+       },
+       {
+       "email":["role@gmail.com"],
        "expdate":"31",
        "expmonths":"MARCH",
        "expyears":"2025"
        }
+      ] 
+    }
+  ]
+ }
