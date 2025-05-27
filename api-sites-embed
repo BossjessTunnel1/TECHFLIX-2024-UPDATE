@@ -1,5 +1,5 @@
 {
-"main":URLS,"results":[{
+"id":917382,"results":[{
 "type":"&tmdb=1",
 "site":"TechFlix",
 "embedUrl":"https://multiembed.mov/?video_id="
@@ -8,11 +8,6 @@
 "type":"/",
 "site":"TechFlix",
 "embedUrl":"https://vidsrc.xyz/embed/movie/"
-},
-{
-"type":"/",
-"site":"TechFlix",
-"embedUrl":"https://player.autoembed.cc/embed/movie/"
 },
 {
 "type":"/",
