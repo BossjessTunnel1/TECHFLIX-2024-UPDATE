@@ -7,11 +7,16 @@
 {
 "type":"/",
 "site":"TechFlix",
+"embedUrl":"https://pinoymovies.cfd/video/"
+},
+{
+"type":"/",
+"site":"TechFlix",
 "embedUrl":"https://vidsrc.xyz/embed/movie/"
 },
 {
 "type":"/",
 "site":"TechFlix",
-"embedUrl":"https://pinoymovies.cfd/video/"
+"embedUrl":"https://player.autoembed.cc/embed/movie/"
 }
 ]}
